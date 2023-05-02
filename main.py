@@ -22,7 +22,7 @@ dictionary = {
     "retry-pause": 5,       
     "safe": False,          
     "syslog": False,        
-    "threads": None,        
+    "threads": 2,        
     "pools": [
         {
             "url": "pool.webchain.network:2222", 
